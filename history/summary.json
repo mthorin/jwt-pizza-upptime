@@ -22,7 +22,7 @@
     "url": "https://pizza-service.tictactoevs.click",
     "icon": "https://icons.duckduckgo.com/ip3/pizza-service.tictactoevs.click.ico",
     "slug": "jwt-pizza-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 152,
     "timeMonth": 174,
     "timeYear": 174,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-03": 0
+    }
   }
 ]
